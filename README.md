@@ -31,6 +31,7 @@ Developed by: NARRA RAMYA
 RegisterNumber: 212223040128  
 */
 
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -74,6 +75,7 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
+
 ## Output:
 ## DataSet:
 ![image](https://github.com/user-attachments/assets/5ff33b39-210d-4766-b3aa-5e3473dff374)
