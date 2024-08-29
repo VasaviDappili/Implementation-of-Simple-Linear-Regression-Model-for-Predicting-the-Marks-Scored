@@ -29,8 +29,6 @@ model for predicting the marks scored.
 Developed by: NARRA RAMYA
 RegisterNumber: 212223040128  
 */
-```
-```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
