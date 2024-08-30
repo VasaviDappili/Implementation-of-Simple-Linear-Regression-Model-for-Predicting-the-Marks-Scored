@@ -9,6 +9,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 step 1.start
+
 step 2.Import the standard Libraries.
 
 step 3.Set variables for assigning dataset values.
@@ -28,9 +29,9 @@ step 8.stop
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 
-Developed by: NARRA RAMYA
+Developed by: DAPPILI VASAVI
 
-RegisterNumber: 212223040128  
+RegisterNumber: 212223040030 
 */
 
 
